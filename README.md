@@ -1,5 +1,7 @@
 ## Hi, I'm Tom Latin <img width="128" alt="_קובץ מאת tomlatin (1)" src="https://user-images.githubusercontent.com/57855070/98300636-3946f480-1fc2-11eb-8306-764815770219.png">
+
 I'm currently a third year student in computer science at Ariel University 💻
+
 I love learning new technologies, and deepening my knowledge of technologies I already know 🤓
 
 #### Programming Languages 🚀
@@ -11,7 +13,7 @@ I love learning new technologies, and deepening my knowledge of technologies I a
 
 #### Tools 🔥
 
-![icons8-intellij-idea-96](https://user-images.githubusercontent.com/57855070/98331898-3a017a00-2006-11eb-938a-eb22d38f9f57.png)
+[<img align="left" width="22px" src="https://user-images.githubusercontent.com/57855070/98331898-3a017a00-2006-11eb-938a-eb22d38f9f57.png" />]
 ![icons8-pycharm-96](https://user-images.githubusercontent.com/57855070/98332075-a4b2b580-2006-11eb-95ff-906388b38446.png)
 ![icon_CLion](https://user-images.githubusercontent.com/57855070/98332831-1dfed800-2008-11eb-85dc-9925b457b3d4.png)
 ![icons8-git-96](https://user-images.githubusercontent.com/57855070/98332575-94e7a100-2007-11eb-9c2b-81ad2d1d04f1.png)
