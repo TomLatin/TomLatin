@@ -12,6 +12,21 @@ I love learning new technologies, and deepening my knowledge of technologies I a
 #### Tools 🔥
 
 ![icons8-intellij-idea-96](https://user-images.githubusercontent.com/57855070/98331898-3a017a00-2006-11eb-938a-eb22d38f9f57.png)
+![icons8-pycharm-96](https://user-images.githubusercontent.com/57855070/98332075-a4b2b580-2006-11eb-95ff-906388b38446.png)
+![icon_CLion](https://user-images.githubusercontent.com/57855070/98332831-1dfed800-2008-11eb-85dc-9925b457b3d4.png)
+![icons8-git-96](https://user-images.githubusercontent.com/57855070/98332575-94e7a100-2007-11eb-9c2b-81ad2d1d04f1.png)
+![icons8-github-96](https://user-images.githubusercontent.com/57855070/98332622-ad57bb80-2007-11eb-8ecb-9bd68aefeef6.png)
+
+#### Connect with me 📫
+![linkdin](https://user-images.githubusercontent.com/57855070/98333031-8fd72180-2008-11eb-96ce-cc86e185889c.png)
+
+[linkdin]:https://www.linkedin.com/in/tom-latin/
+
+
+
+
+
+
 
 
 
@@ -21,7 +36,7 @@ I love learning new technologies, and deepening my knowledge of technologies I a
 <!--
 
 
-#### Connect with me
+
 
 **TomLatin/TomLatin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
