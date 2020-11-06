@@ -18,9 +18,11 @@ I love learning new technologies, and deepening my knowledge of technologies I a
 ![icons8-github-96](https://user-images.githubusercontent.com/57855070/98332622-ad57bb80-2007-11eb-8ecb-9bd68aefeef6.png)
 
 #### Connect with me 📫
-![linkdin](https://user-images.githubusercontent.com/57855070/98333031-8fd72180-2008-11eb-96ce-cc86e185889c.png)
 
-[linkdin]: https://www.linkedin.com/in/tom-latin/
+[<img align="left" src="https://user-images.githubusercontent.com/57855070/98333031-8fd72180-2008-11eb-96ce-cc86e185889c.png"/>][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/tom-latin/
 
 
 
