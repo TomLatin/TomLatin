@@ -27,11 +27,8 @@ I love learning new technologies, and deepening my knowledge of technologies I a
 ![icons8-windows-xp-48](https://user-images.githubusercontent.com/57855070/98336164-17279380-200f-11eb-828c-c09a8067d72f.png)
 ![icons8-linux-48](https://user-images.githubusercontent.com/57855070/98336195-2575af80-200f-11eb-99c0-3972cff0e59f.png)
 
-<br />
-
 #### Connect with me 📫
 [<img align="left" width="48px" src="https://user-images.githubusercontent.com/57855070/98333031-8fd72180-2008-11eb-96ce-cc86e185889c.png"/>][linkedin]
-
 
 [linkedin]: https://www.linkedin.com/in/tom-latin/
 
