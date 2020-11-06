@@ -14,10 +14,12 @@ I love learning new technologies, and deepening my knowledge of technologies I a
 #### Tools 🔥
 
 <img align="left" width="48px" src="https://user-images.githubusercontent.com/57855070/98331898-3a017a00-2006-11eb-938a-eb22d38f9f57.png"/>
-<img align="left" width="48px" src=https://user-images.githubusercontent.com/57855070/98332075-a4b2b580-2006-11eb-95ff-906388b38446.png"/>
+<img align="left" width="48px" src="https://user-images.githubusercontent.com/57855070/98332075-a4b2b580-2006-11eb-95ff-906388b38446.png"/>
 <img align="left" width="48px" src="https://user-images.githubusercontent.com/57855070/98332831-1dfed800-2008-11eb-85dc-9925b457b3d4.png"/>
 <img align="left" width="48px" src="https://user-images.githubusercontent.com/57855070/98332575-94e7a100-2007-11eb-9c2b-81ad2d1d04f1.png"/>
 <img align="left" width="48px" src="https://user-images.githubusercontent.com/57855070/98332622-ad57bb80-2007-11eb-8ecb-9bd68aefeef6.png"/>
+
+<br />
 
 #### Connect with me 📫
 
