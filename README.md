@@ -1,12 +1,17 @@
-### Hi, I'm Tom Latin <img width="256" alt="_קובץ מאת tomlatin (1)" src="https://user-images.githubusercontent.com/57855070/98300636-3946f480-1fc2-11eb-8306-764815770219.png">
+## Hi, I'm Tom Latin <img width="128" alt="_קובץ מאת tomlatin (1)" src="https://user-images.githubusercontent.com/57855070/98300636-3946f480-1fc2-11eb-8306-764815770219.png">
+I'm currently a third year student in computer science at Ariel University 💻
+I love learning new technologies, and deepening my knowledge of technologies I already know 🤓
 
 #### Programming Languages 🚀
-
+![java (1)](https://user-images.githubusercontent.com/57855070/98301894-33521300-1fc4-11eb-860e-f06c2a2e9dce.png)
 ![python (2)](https://user-images.githubusercontent.com/57855070/98302169-9c398b00-1fc4-11eb-9734-1c075d91db98.png)
- ![java (1)](https://user-images.githubusercontent.com/57855070/98301894-33521300-1fc4-11eb-860e-f06c2a2e9dce.png)
- ![c-programming (3)](https://user-images.githubusercontent.com/57855070/98302338-e1f65380-1fc4-11eb-95ae-ad38f2c4fc13.png)
 ![pngegg (3)](https://user-images.githubusercontent.com/57855070/98302891-e8d19600-1fc5-11eb-88ff-96a990f80521.png)
+![c-programming (3)](https://user-images.githubusercontent.com/57855070/98302338-e1f65380-1fc4-11eb-95ae-ad38f2c4fc13.png)
 
+
+#### Tools 🔥
+
+![icons8-intellij-idea-96](https://user-images.githubusercontent.com/57855070/98331898-3a017a00-2006-11eb-938a-eb22d38f9f57.png)
 
 
 
@@ -14,7 +19,7 @@
 
 
 <!--
-#### Tools 🔥
+
 
 #### Connect with me
 
