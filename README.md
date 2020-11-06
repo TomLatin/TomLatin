@@ -20,7 +20,7 @@ I love learning new technologies, and deepening my knowledge of technologies I a
 #### Connect with me 📫
 ![linkdin](https://user-images.githubusercontent.com/57855070/98333031-8fd72180-2008-11eb-96ce-cc86e185889c.png)
 
-[linkdin]:https://www.linkedin.com/in/tom-latin/
+[linkdin]: https://www.linkedin.com/in/tom-latin/
 
 
 
