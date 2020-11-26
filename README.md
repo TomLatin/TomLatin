@@ -27,6 +27,15 @@ I love learning new technologies, and deepening my knowledge of technologies I a
 
  <br />
  
+ #### Currently studying 📚 📖
+<img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/100355566-ab778b80-2ffa-11eb-8375-881f2b147488.png"/>
+<img align="left" width="56px" src="https://user-images.githubusercontent.com/57855070/100355882-2ccf1e00-2ffb-11eb-90cf-5a2f8b258883.png"/>
+<img align="left" width="70px" src="https://user-images.githubusercontent.com/57855070/100355672-d7930c80-2ffa-11eb-91d2-bf4f48687761.png"/>
+
+ 
+  <br />
+  
+  
 #### Connect with me 📫
 
 [<img align="left" width="48px" src="https://user-images.githubusercontent.com/57855070/98333031-8fd72180-2008-11eb-96ce-cc86e185889c.png"/>][linkedin]
