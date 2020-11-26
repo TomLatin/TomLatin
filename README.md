@@ -21,15 +21,17 @@ I love learning new technologies, and deepening my knowledge of technologies I a
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332575-94e7a100-2007-11eb-9c2b-81ad2d1d04f1.png"/>
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332622-ad57bb80-2007-11eb-8ecb-9bd68aefeef6.png"/> <br />
 
+#### Operating Systems
+<img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/100354935-92220f80-2ff9-11eb-8d48-a4c3cc1e3a9b.png"/>
+<img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/100348648-db6d6180-2fef-11eb-8fea-e75047e57b3c.png"/>
 
+ <br />
+ 
+#### Connect with me 📫
 
+[<img align="left" width="48px" src="https://user-images.githubusercontent.com/57855070/98333031-8fd72180-2008-11eb-96ce-cc86e185889c.png"/>][linkedin]
 
-
-
-
-
-
-
+[linkedin]: https://www.linkedin.com/in/tom-latin/
 
 <!--
 
