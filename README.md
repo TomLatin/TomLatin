@@ -6,26 +6,26 @@ I love learning new technologies, and deepening my knowledge of technologies I a
 
 #### Programming Languages 🚀
 
-<img align="left" width="48px" src="https://user-images.githubusercontent.com/57855070/98301894-33521300-1fc4-11eb-860e-f06c2a2e9dce.png"/>
-<img align="left" width="48px" src="https://user-images.githubusercontent.com/57855070/98302169-9c398b00-1fc4-11eb-9734-1c075d91db98.png"/>
-<img align="left" width="48px" src="https://user-images.githubusercontent.com/57855070/98302891-e8d19600-1fc5-11eb-88ff-96a990f80521.png"/>
-<img align="left" width="48px" src="https://user-images.githubusercontent.com/57855070/98302338-e1f65380-1fc4-11eb-95ae-ad38f2c4fc13.png"/> <br />
+<img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98301894-33521300-1fc4-11eb-860e-f06c2a2e9dce.png"/>
+<img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98302169-9c398b00-1fc4-11eb-9734-1c075d91db98.png"/>
+<img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98302891-e8d19600-1fc5-11eb-88ff-96a990f80521.png"/>
+<img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98302338-e1f65380-1fc4-11eb-95ae-ad38f2c4fc13.png"/> <br />
 
 <br />
 
 #### Tools 🔥
 
-<img align="left" width="48px" src="https://user-images.githubusercontent.com/57855070/98331898-3a017a00-2006-11eb-938a-eb22d38f9f57.png"/>
-<img align="left" width="48px" src="https://user-images.githubusercontent.com/57855070/98332075-a4b2b580-2006-11eb-95ff-906388b38446.png"/>
-<img align="left" width="48px" src="https://user-images.githubusercontent.com/57855070/98332831-1dfed800-2008-11eb-85dc-9925b457b3d4.png"/>
-<img align="left" width="48px" src="https://user-images.githubusercontent.com/57855070/98332575-94e7a100-2007-11eb-9c2b-81ad2d1d04f1.png"/>
-<img align="left" width="48px" src="https://user-images.githubusercontent.com/57855070/98332622-ad57bb80-2007-11eb-8ecb-9bd68aefeef6.png"/> <br />
+<img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98331898-3a017a00-2006-11eb-938a-eb22d38f9f57.png"/>
+<img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332075-a4b2b580-2006-11eb-95ff-906388b38446.png"/>
+<img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332831-1dfed800-2008-11eb-85dc-9925b457b3d4.png"/>
+<img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332575-94e7a100-2007-11eb-9c2b-81ad2d1d04f1.png"/>
+<img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332622-ad57bb80-2007-11eb-8ecb-9bd68aefeef6.png"/> <br />
 
 <br />
 
 #### Operating Systems
-![icons8-windows-xp-48](https://user-images.githubusercontent.com/57855070/98336164-17279380-200f-11eb-828c-c09a8067d72f.png)
-![icons8-linux-48](https://user-images.githubusercontent.com/57855070/98336195-2575af80-200f-11eb-99c0-3972cff0e59f.png)
+![icons8-windows-xp-36](https://user-images.githubusercontent.com/57855070/98336164-17279380-200f-11eb-828c-c09a8067d72f.png)
+![icons8-linux-36](https://user-images.githubusercontent.com/57855070/98336195-2575af80-200f-11eb-99c0-3972cff0e59f.png)
 
 #### Connect with me 📫
 [<img align="left" width="48px" src="https://user-images.githubusercontent.com/57855070/98333031-8fd72180-2008-11eb-96ce-cc86e185889c.png"/>][linkedin]
