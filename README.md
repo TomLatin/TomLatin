@@ -9,6 +9,7 @@ I love learning new technologies, and deepening my knowledge of technologies I a
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98302169-9c398b00-1fc4-11eb-9734-1c075d91db98.png"/>
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98302891-e8d19600-1fc5-11eb-88ff-96a990f80521.png"/>
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98302338-e1f65380-1fc4-11eb-95ae-ad38f2c4fc13.png"/> <br />
+<img align="left" width="70px" src="https://user-images.githubusercontent.com/57855070/100355672-d7930c80-2ffa-11eb-91d2-bf4f48687761.png"/>
 
 <br />
 
@@ -19,22 +20,14 @@ I love learning new technologies, and deepening my knowledge of technologies I a
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332831-1dfed800-2008-11eb-85dc-9925b457b3d4.png"/>
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332575-94e7a100-2007-11eb-9c2b-81ad2d1d04f1.png"/>
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332622-ad57bb80-2007-11eb-8ecb-9bd68aefeef6.png"/> <br />
+<img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/100355566-ab778b80-2ffa-11eb-8375-881f2b147488.png"/>
+<img align="left" width="56px" src="https://user-images.githubusercontent.com/57855070/100355882-2ccf1e00-2ffb-11eb-90cf-5a2f8b258883.png"/>
 
 #### Operating Systems
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/100354935-92220f80-2ff9-11eb-8d48-a4c3cc1e3a9b.png"/>
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/100348648-db6d6180-2fef-11eb-8fea-e75047e57b3c.png"/>
 
  <br />
- 
- #### Currently studying 📚 📖
-<img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/100355566-ab778b80-2ffa-11eb-8375-881f2b147488.png"/>
-<img align="left" width="56px" src="https://user-images.githubusercontent.com/57855070/100355882-2ccf1e00-2ffb-11eb-90cf-5a2f8b258883.png"/>
-<img align="left" width="70px" src="https://user-images.githubusercontent.com/57855070/100355672-d7930c80-2ffa-11eb-91d2-bf4f48687761.png"/>
-
- 
-  <br />
-  
-  
 #### Connect with me 📫
 
 [<img align="left" width="48px" src="https://user-images.githubusercontent.com/57855070/98333031-8fd72180-2008-11eb-96ce-cc86e185889c.png"/>][linkedin]
