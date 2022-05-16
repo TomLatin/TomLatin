@@ -1,5 +1,6 @@
 ## Hi, I'm Tom Latin <img width="128" alt="_קובץ מאת tomlatin (1)" src="https://user-images.githubusercontent.com/57855070/98300636-3946f480-1fc2-11eb-8306-764815770219.png">
 
+I'm currently a software developer at Fairtility 🖥️
 I love learning new technologies, and deepening my knowledge of technologies I already know 🤓
 
 #### Programming Languages 🚀
